@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GitShivam27
-- 🌱 I’m currently learning DevOps AWS
+- 🌱 Devops Engineer
 - 📫Reach me at yshivam59@gmail.com
 
 
